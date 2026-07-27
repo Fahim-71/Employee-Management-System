@@ -7,4 +7,3 @@ const {user, loading} = useAuth()
 
 export default privateRoute
 
-//test comment
